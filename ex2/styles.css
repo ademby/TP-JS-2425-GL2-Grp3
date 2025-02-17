@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	justify-content: center;
+}
+
+#target {
+	text-align: center;
+}
+
+#style-picker > input, #style-picker > select {
+	margin: 2em;
+}
+
+button {
+	visibility: hidden;
+	display: none;
+}

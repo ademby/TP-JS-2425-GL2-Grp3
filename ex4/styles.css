@@ -1,0 +1,32 @@
+li.item {
+	cursor: pointer;
+	font-size: 2em;
+}
+
+li[data-color="black"] {
+	color: black;
+}
+
+li[data-color="green"] {
+	color: green;
+}
+
+li[data-color="red"] {
+	color: red;
+}
+
+li[data-color="blue"] {
+	color: blue;
+}
+
+li[data-color="indigo"] {
+	color: indigo;
+}
+
+li[data-color="orange"] {
+	color: orange;
+}
+
+li[data-color="yellow"] {
+	color: yellow;
+}

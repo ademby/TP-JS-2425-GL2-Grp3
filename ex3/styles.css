@@ -1,0 +1,11 @@
+body {
+	font-family: 'Times New Roman', sans-serif;
+}
+
+.note {
+	margin: 1em 0;
+}
+
+.rm-note {
+	cursor: pointer;
+}

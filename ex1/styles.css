@@ -1,0 +1,12 @@
+body.over {
+	background-color: hsl(0, 0%, 75%);
+}
+body.won {
+	background-color: #8cc3aa;
+}
+body.lost {
+	background-color: #f1aeb5;
+}
+body.error {
+	background-color: #fffdcb;
+}

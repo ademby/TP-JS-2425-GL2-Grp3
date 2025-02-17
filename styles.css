@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    animation: rotate 10s linear infinite;
+}
+
+.container a {
+    position: static;
+    width: auto;
+    height: auto;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: initial;
+    color: initial;
+    text-decoration: none;
+    border-radius: 0;
+    transform-origin: initial;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
